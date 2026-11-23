@@ -185,8 +185,7 @@ gap: 24px;
 
 .passos {
     display: flex;
-    gap: 24px;
-
+gap: 24px;
 }
 .passo {
     border-top: 6px solid var(--tinta);
@@ -208,26 +207,25 @@ gap: 24px;
 }
 
 .rodape {
-    margin-top: 120px;
-    background-color: var(--tinta);
-    color: var(--concreto);
-    padding-top: 56px;
-    padding-bottom: 56px;
-    
+  margin-top: 120px;
+  background-color: var(--tinta);
+  color: var(--concreto);
+  padding-top: 56px;
+  padding-bottom: 56px;
 }
 
 .rodape-colunas {
-    display: flex;
-    gap: 40px;
+  display: flex;
+  gap: 40px;
 }
 
 .rodape-coluna {
-    flex: 1;
+  flex: 1;
 }
 
 .rodape h4 {
-    font-family: var(--fonte-cartaz);
-    font-size: 28px;
-    color: var(--fita);
-    margin-bottom: 12px;
+  font-family: var(--fonte-cartaz);
+  font-size: 28px;
+  color: var(--fita);
+  margin-bottom: 12px;
 }
